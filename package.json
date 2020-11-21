@@ -1,6 +1,7 @@
 {
   "name": "travel-helper",
   "version": "0.1.0",
+  "author": "Petr Mitin <petr09mitin@mail.ru>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
